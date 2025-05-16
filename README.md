@@ -1,4 +1,4 @@
-# 🌦️ GoodWeather
+# 🌦️ JustWeather
 
 A clean, minimal SwiftUI weather app that shows the current weather and what it feels like — built using modern architecture, async/await, and location services.
 
