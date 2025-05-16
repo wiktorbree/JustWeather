@@ -2,6 +2,7 @@
 
 A clean, minimal SwiftUI weather app that shows the current weather and what it feels like — built using modern architecture, async/await, and location services.
 
+![showcase](https://github.com/user-attachments/assets/fadb567f-e760-444b-9c6f-0731141ce148)
 
 
 ## ✨ Features
