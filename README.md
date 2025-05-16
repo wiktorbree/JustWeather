@@ -26,7 +26,7 @@ A clean, minimal SwiftUI weather app that shows the current weather and what it 
    ```bash
    git clone https://github.com/wiktorbree/JustWeather.git
    ```
-2.    Open GoodWeather.xcodeproj in Xcode.
+2.    Open JustWeather.xcodeproj in Xcode.
 3.    Add your API key in the designated constants or .env file.
 4.    Build and run on a simulator or device.
 
