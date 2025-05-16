@@ -6,8 +6,13 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		74C7C08A2DD78EF000E7CCDD /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 74C7C0892DD78EF000E7CCDD /* README.md */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		74C0578A2DD6533B009B493C /* JustWeather.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = JustWeather.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		74C7C0892DD78EF000E7CCDD /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -32,6 +37,7 @@
 		74C057812DD6533B009B493C = {
 			isa = PBXGroup;
 			children = (
+				74C7C0892DD78EF000E7CCDD /* README.md */,
 				74C0578C2DD6533B009B493C /* JustWeather */,
 				74C0578B2DD6533B009B493C /* Products */,
 			);
@@ -109,6 +115,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				74C7C08A2DD78EF000E7CCDD /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
